@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "test-bls-canister-backend": {
+      "candid": "src/test-bls-canister-backend/test-bls-canister-backend.did",
+      "package": "test-bls-canister-backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
