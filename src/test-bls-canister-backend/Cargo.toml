@@ -12,4 +12,4 @@ crate-type = ["cdylib"]
 candid = "0.10"
 ic-cdk = "0.17.1"
 ic-cdk-timers = "0.11"
-ic_bls12_381 = { version = "0.10.0", features = ["experimental"] }
+ic_bls12_381 = { version = "0.10.1", features = ["experimental"] }
